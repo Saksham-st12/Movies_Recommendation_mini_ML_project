@@ -1,8 +1,8 @@
-streamlit==1.8.0
+streamlit==1.22.0
+protobuf==3.20.3
 pandas
 numpy
 requests
 gdown
 nltk
 scikit-learn
-protobuf==3.20.3

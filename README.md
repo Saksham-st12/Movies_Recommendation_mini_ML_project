@@ -71,3 +71,6 @@ tags = overview + genres + keywords + cast + Director
 | **Storage** | Pickle |
 
 ---
+
+## Streamlit Link 
+-https://moviesrecommendationminimlproject-sm2envbupdmmb8xv2wvmzg.streamlit.app/
